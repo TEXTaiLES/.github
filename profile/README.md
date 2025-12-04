@@ -1,10 +1,10 @@
-# 🧵 TEXTaiLES: Digital Tools for Cultural Heritage Textiles
+# TEXTaiLES: Digital Tools for Cultural Heritage Textiles
 
 Welcome to the official GitHub organization page for **TEXTaiLES** (TEXTile digitizAtIon tools and mEthodS for cultural heritage), it is a project funded by the European Commission under Grant Agreement n.101158328.
 
 ---
 
-## 💡 The Project
+## The Project
 
 In this digital age, cultural institutions are confronted with unprecedented challenges regarding sharing and digitising Cultural Heritage (CH) content, as well as collaborating and connecting with one another. To address these issues, the creation of the [European Collaborative Cloud for Cultural Heritage](https://www.echoes-eccch.eu/) (ECCCH) offers a significant chance to encourage CH institutions into widely using collaboration platforms and tools. As a part of the ECCCH, TEXTaiLES employs key emerging technologies like Artificial Intelligence (AI), 3D digitization, Internet of Things (IoT), Cloud/Edge Computing, Robotics, Digital Twins (DTs) to develop a **standardized, cutting-edge technological and methodological ecosystem** for the entire textile digitization lifecycle.
 
@@ -24,7 +24,7 @@ TEXTaiLES is a highly interdisciplinary project, fusing **computer science, AI, 
 
 ---
 
-## 💻 Repositories
+## Repositories
 
 The following repositories correspond to the core components of the TEXTaiLES echosystem. Detailed documentation for each can be found in the respective dedicated page linked below. This section will be **regularly updated** as the project progresses.
 
@@ -38,7 +38,7 @@ The following repositories correspond to the core components of the TEXTaiLES ec
 
 ---
 
-## 📜 Publications
+## Publications
 Below you can find a list of scientific publications, presentations, and dissemination materials produced within **TEXTaiLES**. This section will be **regularly updated** as the project progresses.
 
 ### 🗓️ 2025
@@ -46,10 +46,10 @@ Below you can find a list of scientific publications, presentations, and dissemi
 
 ---
 
-## ⚖️ Open Source principles
+## Open Source principles
 TEXTaiLES is committed to an inherent open-source culture. We build on **open standards and specifications** and utilize the container ecosystem (Docker, K8s) for flexible and transparent software component deployment.
 
-## 🤝 Getting Involved
+## Getting Involved
 
 We welcome engagement from the cultural heritage, scientific, and technical communities.
 
