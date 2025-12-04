@@ -49,4 +49,13 @@ We welcome engagement from the cultural heritage, scientific, and technical comm
 
 ## 🏛️ Funded by
 
-*TODO: Add EU + Swiss Confederation logos*
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="EN_FundedbytheEU_RGB_NEG-1536x342.png">
+  <source media="(prefers-color-scheme: light)" srcset="EN_FundedbytheEU_RGB_POS-1536x342.png">
+  <img alt="Funded by the European Union" src="EN_FundedbytheEU_RGB_POS-1536x342.png">
+</picture>
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="WBF_SBFI_EU_Frameworkprogramme_E_RGB_neg_hoch.png">
+  <source media="(prefers-color-scheme: light)" srcset="WBF_SBFI_EU_Frameworkprogramme_E_RGB_pos_hoch.png">
+  <img alt="Swiss Confederation Education" src="WBF_SBFI_EU_Frameworkprogramme_E_RGB_pos_hoch.png">
+</picture>
