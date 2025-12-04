@@ -8,13 +8,13 @@ Welcome to the official GitHub organization page for **TEXTaiLES** (TEXTile digi
 
 In this digital age, cultural institutions are confronted with unprecedented challenges regarding sharing and digitising Cultural Heritage (CH) content, as well as collaborating and connecting with one another. To address these issues, the creation of the [European Collaborative Cloud for Cultural Heritage](https://www.echoes-eccch.eu/) (ECCCH) offers a significant chance to encourage CH institutions into widely using collaboration platforms and tools. As a part of the ECCCH, TEXTaiLES employs key emerging technologies like Artificial Intelligence (AI), 3D digitization, Internet of Things (IoT), Cloud/Edge Computing, Robotics, Digital Twins (DTs) to develop a **standardized, cutting-edge technological and methodological ecosystem** for the entire textile digitization lifecycle.
 
-[Project Website](https://textailes-eccch.eu/)
+[Project Website](https://textailes-eccch.eu/) | [Project portal](textailes.athenarc.gr) 
 
 ---
 
 ## 🛠️ Core Technologies & Innovation
 
-TEXTaiLES is a highly interdisciplinary project, fusing **computer science, AI, robotics, sensor technologies, and humanities (archeology, conservation)**.
+TEXTaiLES is a highly interdisciplinary project, fusing **computer science, AI, robotics, sensor technologies, and cultural heritage (archeology, conservation)**.
 
 | Technology Area | Core Innovation/Components |
 | :--- | :--- |
@@ -26,15 +26,23 @@ TEXTaiLES is a highly interdisciplinary project, fusing **computer science, AI, 
 
 ## 💻 Repositories
 
-The following repositories correspond to the core components of the TEXTaiLES echosystem. Detailed documentation for each can be found in the respective dedicated page linked below.
+The following repositories correspond to the core components of the TEXTaiLES echosystem. Detailed documentation for each can be found in the respective dedicated page linked below. This section will be **regularly updated** as the project progresses.
 
 | Repository | Documentation | Focus |
 | :--- | :--- | :--- |
 | [**AmalthAI**](https://github.com/TEXTaiLES/AmalthAI) | [Documentation](https://textailes.github.io/AmalthAI-documentation) | End-to-end ML platform |
 | [**THOTH**](https://github.com/TEXTaiLES/THOTH) | [Documentation](https://textailes.github.io/thoth-documentation) | 3D Viewer and Annotator |
 | [**ZEUSbot**](https://github.com/TEXTaiLES/ZEUSbot) | [Documentation](https://textailes.github.io/UGV-documentation) | Uncrewed Ground Vehicle (UGV) Platform |
-| [**NEFELE**](https://github.com/TEXTaiLES/SAMplify_SuGaR) | [Documentation](https://textailes.github.io/SAMplify_SuGaR-documentation) | 3D Reconstruction |
+| [**NEFELE**](https://github.com/TEXTaiLES/SAMplify_SuGaR) | [Documentation](https://textailes.github.io/SAMplify_SuGaR-documentation) | 3D Reconstruction based on Gaussian Splatting |
 | [**HESTIA**](https://github.com/TEXTaiLES/HESTIA) | [API docs](http://textailes.athenarc.gr:5000/docs) | Data Lake (main data repository) |
+
+---
+
+## 📜 Publications
+Below you can find a list of scientific publications, presentations, and dissemination materials produced within **TEXTaiLES**. This section will be **regularly updated** as the project progresses.
+
+### 🗓️ 2025
+- _Coming soon: accepted publications will be listed here._
 
 ---
 
