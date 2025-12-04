@@ -31,10 +31,10 @@ The following repositories correspond to the core components of the TEXTaiLES ec
 | Repository | Documentation | Focus |
 | :--- | :--- | :--- |
 | [**AmalthAI**](https://github.com/TEXTaiLES/AmalthAI) | [Documentation](https://textailes.github.io/AmalthAI-documentation) | End-to-end ML platform |
-| [**THOTH**](https://github.com/TEXTaiLES/THOTH) | [Documentation](https://textailes.github.io/THOTH-documentation) | 3D Viewer and Annotator |
+| [**THOTH**](https://github.com/TEXTaiLES/THOTH) | [Documentation](https://textailes.github.io/thoth-documentation) | 3D Viewer and Annotator |
 | [**ZEUSbot**](https://github.com/TEXTaiLES/ZEUSbot) | [Documentation](https://textailes.github.io/UGV-documentation) | Uncrewed Ground Vehicle (UGV) Platform |
 | [**NEFELE**](https://github.com/TEXTaiLES/SAMplify_SuGaR) | [Documentation](https://textailes.github.io/SAMplify_SuGaR-documentation) | 3D Reconstruction |
-| [**HESTIA**](https://github.com/TEXTaiLES/HESTIA) | [Documentation](https://textailes.github.io/HESTIA-documentation) | Data Lake (main data repository) |
+| [**HESTIA**](https://github.com/TEXTaiLES/HESTIA) | [API docs](http://textailes.athenarc.gr:5000/docs) | Data Lake (main data repository) |
 
 ---
 
@@ -52,10 +52,10 @@ We welcome engagement from the cultural heritage, scientific, and technical comm
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="EN_FundedbytheEU_RGB_NEG-1536x342.png">
   <source media="(prefers-color-scheme: light)" srcset="EN_FundedbytheEU_RGB_POS-1536x342.png">
-  <img alt="Funded by the European Union" src="EN_FundedbytheEU_RGB_POS-1536x342.png">
+  <img width="400" alt="Funded by the European Union" src="EN_FundedbytheEU_RGB_POS-1536x342.png">
 </picture>
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="WBF_SBFI_EU_Frameworkprogramme_E_RGB_neg_hoch.png">
   <source media="(prefers-color-scheme: light)" srcset="WBF_SBFI_EU_Frameworkprogramme_E_RGB_pos_hoch.png">
-  <img alt="Swiss Confederation Education" src="WBF_SBFI_EU_Frameworkprogramme_E_RGB_pos_hoch.png">
+  <img width="400" alt="Swiss Confederation Education" src="WBF_SBFI_EU_Frameworkprogramme_E_RGB_pos_hoch.png">
 </picture>
