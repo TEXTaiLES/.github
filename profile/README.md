@@ -8,7 +8,7 @@ Welcome to the official GitHub organization page for **TEXTaiLES** (TEXTile digi
 
 In this digital age, cultural institutions are confronted with unprecedented challenges regarding sharing and digitising Cultural Heritage (CH) content, as well as collaborating and connecting with one another. To address these issues, the creation of the [European Collaborative Cloud for Cultural Heritage](https://www.echoes-eccch.eu/) (ECCCH) offers a significant chance to encourage CH institutions into widely using collaboration platforms and tools. As a part of the ECCCH, TEXTaiLES employs key emerging technologies like Artificial Intelligence (AI), 3D digitization, Internet of Things (IoT), Cloud/Edge Computing, Robotics, Digital Twins (DTs) to develop a **standardized, cutting-edge technological and methodological ecosystem** for the entire textile digitization lifecycle.
 
-[Project Website](https://textailes-eccch.eu/) | [Project portal](textailes.athenarc.gr) 
+[Project Website](https://textailes-eccch.eu/) | [Project portal](https://textailes.athenarc.gr) 
 
 ---
 
