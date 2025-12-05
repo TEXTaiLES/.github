@@ -1,6 +1,6 @@
 # TEXTaiLES: Digital Tools for Cultural Heritage Textiles
 
-Welcome to the official GitHub organization page for **TEXTaiLES** (TEXTile digitizAtIon tools and mEthodS for cultural heritage), it is a project funded by the European Commission under Grant Agreement n.101158328.
+Welcome to the official GitHub organization page for **TEXTaiLES** (TEXTile digitizAtIon tools and mEthodS for cultural heritage), it is a project funded by the European Commission under Grant Agreement n.101158328 and by the Swiss Confederation.
 
 ---
 
