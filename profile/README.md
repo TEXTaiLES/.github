@@ -40,9 +40,9 @@ The following repositories correspond to the core components of the TEXTaiLES ec
 
 ## Publications
 Below you can find a list of scientific publications, presentations, and dissemination materials produced within **TEXTaiLES**. This section will be **regularly updated** as the project progresses.
-Sidiroglou, E. C., Kapoutsis, A. C., An, S., & Tsintotas, K. A. (2025, September). Design and Implementation of a Modular Omnidirectional Ground Robot Using Raspberry Pi 5 and ROS 2. In 2025 European Conference on Mobile Robots (ECMR) (pp. 1-6). IEEE.
 
 ### 🗓️ 2025
+- Sidiroglou, E. C., Kapoutsis, A. C., An, S., & Tsintotas, K. A. (2025, September). Design and Implementation of a Modular Omnidirectional Ground Robot Using Raspberry Pi 5 and ROS 2. In 2025 European Conference on Mobile Robots (ECMR) (pp. 1-6). IEEE.
 
 ---
 
