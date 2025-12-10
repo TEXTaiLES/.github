@@ -42,7 +42,10 @@ The following repositories correspond to the core components of the TEXTaiLES ec
 Below you can find a list of scientific publications, presentations, and dissemination materials produced within **TEXTaiLES**. This section will be **regularly updated** as the project progresses.
 
 ### 🗓️ 2025
+- Lipkin S., Ioannakis G. (2025, October). From threads to twins: TEXTaiLES and 3D digitization of cultural heritage textiles. Keynote Speech at Digikult 2025, Västerås, Sweden.
 - Sidiroglou, E. C., Kapoutsis, A. C., An, S., & Tsintotas, K. A. (2025, September). Design and Implementation of a Modular Omnidirectional Ground Robot Using Raspberry Pi 5 and ROS 2. In 2025 European Conference on Mobile Robots (ECMR) (pp. 1-6). IEEE.
+- Chatzisavvas, C., Pappas, T., Rigas, P., Mitianoudis, N., Pavlidis, G., Koutsoudis, A., Kiourt, C., Ioannakis, G., (May 2025). Towards an Easy-to-Use Machine learning Framework for Cultural Heritage Scientists. CAA 2025 Digital Horizons: Embracing Heritage in an evolving world, 5-9 May 2025, Athens, Greece.
+- WORKSHOP #8: Opportunities and Tools from the Cultural Heritage Cloud (ECCCH-ECHOES) for Digital Archaeology, CAA 2025 Digital Horizons: Embracing Heritage in an evolving world, 5-9 May 2025, Athens, Greece.- 
 
 ---
 
