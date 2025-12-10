@@ -40,7 +40,7 @@ The following repositories correspond to the core components of the TEXTaiLES ec
 
 ---
 
-## Publications
+## Publications, Presentations, Keynote Speeches, Datasets
 Below you can find a list of scientific publications, presentations, and dissemination materials produced within **TEXTaiLES**. This section will be **regularly updated** as the project progresses.
 
 ### 🗓️ 2025
