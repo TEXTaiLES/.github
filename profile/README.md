@@ -33,8 +33,10 @@ The following repositories correspond to the core components of the TEXTaiLES ec
 | [**AmalthAI**](https://github.com/TEXTaiLES/AmalthAI) | [Documentation](https://textailes.github.io/AmalthAI-documentation) | End-to-end ML platform |
 | [**THOTH**](https://github.com/TEXTaiLES/THOTH) | [Documentation](https://textailes.github.io/thoth-documentation) | 3D Viewer and Annotator |
 | [**ZEUSbot**](https://github.com/TEXTaiLES/ZEUSbot) | [Documentation](https://textailes.github.io/UGV-documentation) | Uncrewed Ground Vehicle (UGV) Platform |
-| [**NEFELE**](https://github.com/TEXTaiLES/SAMplify_SuGaR) | [Documentation](https://textailes.github.io/SAMplify_SuGaR-documentation) | 3D Reconstruction based on Gaussian Splatting |
+| [**NEPHELE**](https://github.com/TEXTaiLES/SAMplify_SuGaR) | [Documentation](https://textailes.github.io/SAMplify_SuGaR-documentation) | 3D Reconstruction based on Gaussian Splatting |
+| [**INDRA**](https://github.com/TEXTaiLES/Environmental-Condition-Monitoring) | [Documentation](https://textailes.github.io/Environmental-Condition-Monitoring-documentation/) | Environmental condition monitoring kit |
 | [**HESTIA**](https://github.com/TEXTaiLES/HESTIA) | [API docs](http://textailes.athenarc.gr:5000/docs) | Data Lake (main data repository) |
+
 
 ---
 
