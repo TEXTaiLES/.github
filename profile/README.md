@@ -30,7 +30,7 @@ The following repositories correspond to the core components of the TEXTaiLES ec
 
 | Repository | Documentation | Focus |
 | :--- | :--- | :--- |
-| [**AmalthAI**](https://github.com/TEXTaiLES/AmalthAI) | [Documentation](https://textailes.github.io/AmalthAI-documentation) | End-to-end ML platform |
+| [**AmalthAI**](https://github.com/TEXTaiLES/AmalthAI) | [Documentation](https://textailes.github.io/AmalthAI-documentation) | End-to-End Machine Learning platform |
 | [**THOTH**](https://github.com/TEXTaiLES/THOTH) | [Documentation](https://textailes.github.io/thoth-documentation) | 3D Viewer and Annotator |
 | [**ZEUSbot**](https://github.com/TEXTaiLES/ZEUSbot) | [Documentation](https://textailes.github.io/UGV-documentation) | Uncrewed Ground Vehicle (UGV) Platform |
 | [**NEPHELE**](https://github.com/TEXTaiLES/SAMplify_SuGaR) | [Documentation](https://textailes.github.io/SAMplify_SuGaR-documentation) | 3D Reconstruction based on Gaussian Splatting |
