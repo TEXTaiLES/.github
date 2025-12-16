@@ -45,7 +45,7 @@ Below you can find a list of scientific publications, presentations, and dissemi
 
 ### 🗓️ 2025
 - Margariti, C., Ulanowska, A., Coletti, F., Lipkin S., Nurse, L., Kapoutsis, A., Pappas, T., Ioannakis, G. (December 2025). Tools and methods for digitisation of textiles within the research project TEXTaiLES. In Conference of Conservators of Antiquities & Works of Art 2025, Athens, Greece. (oral presentation - Greek).
-- Ulanowska, A., Sziniewska, K., Truszkowski, M. TOWARDS ESTABLISHING BEST PRACTICES IN DOCUMENTING TEXTILE IMPRINTS ON CLAY: A HANDS-ON WORKSHOP IN WARSAW BY THE EXPLORTIC PROJECT. 8th December 2025. Warsaw, Poland. 
+- Ulanowska, A., Zebrowska, K., Truszkowski, M. TOWARDS ESTABLISHING BEST PRACTICES IN DOCUMENTING TEXTILE IMPRINTS ON CLAY: A HANDS-ON WORKSHOP IN WARSAW BY THE EXPLORTIC PROJECT. 8th December 2025. Warsaw, Poland. 
 - Lipkin S., Ioannakis G. (2025, October). From threads to twins: TEXTaiLES and 3D digitization of cultural heritage textiles. Keynote Speech at Digikult 2025, Västerås, Sweden.
 - Margariti, C., Coletti, F., Lipkin, S., Nurse, L., Ulanowska, A., Textile Digitisation Tools and Methods for a Cultural Heritage Collaborative Project. Keynote Speech at 9th INTERNATIONAL PURPUREAE VESTES SYMPOSIUM. 22-24 October 2025. Lisbon, Portugal.
 - Sidiroglou, E. C., Kapoutsis, A. C., An, S., & Tsintotas, K. A. (2025, September). Design and Implementation of a Modular Omnidirectional Ground Robot Using Raspberry Pi 5 and ROS 2. In 2025 European Conference on Mobile Robots (ECMR) (pp. 1-6). IEEE.
