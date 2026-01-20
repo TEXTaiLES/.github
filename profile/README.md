@@ -26,7 +26,7 @@ TEXTaiLES is a highly interdisciplinary project, fusing **computer science, AI, 
 
 ## Repositories
 
-The following repositories correspond to the core components of the TEXTaiLES echosystem. Detailed documentation for each can be found in the respective dedicated page linked below. This section will be **regularly updated** as the project progresses.
+The following repositories correspond to the core components of the TEXTaiLES ecosystem. Detailed documentation for each can be found in the respective dedicated page linked below. This section will be **regularly updated** as the project progresses.
 
 | Repository | Documentation | Focus |
 | :--- | :--- | :--- |
