@@ -18,7 +18,7 @@ TEXTaiLES is a highly interdisciplinary project, fusing **computer science, AI, 
 
 | Technology Area | Core Innovation/Components |
 | :--- | :--- |
-| **Data Acquisition** | **Robotic Platforms (UAV/UGV):** Custom, safe-by-design, and cost-effective vehicles equipped with multi-sensor arrays (RGB, multispectral, terahertz, lidar) for autonomous and contact-free scanning. **Dynamic Path Planning** adapts the robot movement in real-time to ensure consistent and targeted data collection. |
+| **Data Acquisition** | **Robotic Platforms (UAV/UGV):** Custom, safe-by-design, and cost-effective vehicles equipped with multi-sensor arrays (RGB, multispectral, lidar) for autonomous and contact-free scanning. **Dynamic Path Planning** adapts the robot movement in real-time to ensure consistent and targeted data collection. |
 | **Data Processing & Analysis** | **AI-Empowered Tools:** Algorithms for **surface morphology and microstructure analysis**, **degradation detection/localization**, and **automatic restoration** of damaged parts. **Textile Dynamics and Motion Modeling** simulates how fabrics behave under stretching, shear, bending, torsion, or compression. |
 | **Digital Toolkit** | **4D Collaborative Environment:** A web-based 3D viewing, editing, and annotation platform supported by **Digital Twin (DT)** models. The DT tracks alterations over time (4D) and links with real-time sensor data (IoT) for continuous monitoring and predictive preservation. |
 
