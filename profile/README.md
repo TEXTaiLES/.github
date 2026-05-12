@@ -36,6 +36,8 @@ The following repositories correspond to the core components of the TEXTaiLES ec
 | [**NEPHELE**](https://github.com/TEXTaiLES/SAMplify_SuGaR) | [Documentation](https://textailes.github.io/SAMplify_SuGaR-documentation) | 3D Reconstruction based on Gaussian Splatting |
 | [**INDRA**](https://github.com/TEXTaiLES/Environmental-Condition-Monitoring) | [Documentation](https://textailes.github.io/Environmental-Condition-Monitoring-documentation/) | Environmental condition monitoring kit |
 | [**HESTIA**](https://github.com/TEXTaiLES/HESTIA) | [Documentation](https://textailes.github.io/hestia-documentation/) | Data Lake (main data repository) |
+| [**DegraTwin**](https://github.com/TEXTaiLES/DegraTwin) | [Documentation](https://github.com/TEXTaiLES/DegraTwin-documentation) | Predictive degradation tool |
+| [**TextRevAIve**](https://github.com/TEXTaiLES/TexRevAIve) | Documentation](https://github.com/TEXTaiLES/TexRevAIve-documentation) | Digital restoration tool |
 
 
 ---
